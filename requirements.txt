@@ -1,0 +1,10 @@
+evdev==1.9.1
+pillow==10.4.0
+plyer==2.1.0
+psutil==7.0.0
+PyGetWindow==0.0.9
+pynput==1.8.1
+PyRect==0.2.0
+pystray==0.19.5
+python-xlib==0.33
+six==1.17.0
